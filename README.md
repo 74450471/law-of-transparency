@@ -1,5 +1,5 @@
 # t-c2
-The computer model tries to model the following process: 
+The computer model in the file tc.ipynb file tries to model the following process: 
 
 1)cognition in system 1 creates electrical impulses
 2)those electrical impulses are transmitted by light akin to that happening in optogenetics 
