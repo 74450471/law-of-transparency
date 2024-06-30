@@ -10,5 +10,5 @@ At the same time, there might be a need to consider formulas in which we could s
 
 The computer model number 1 represents the following equations which try to cover the process of cognitive activity in system 1 resulting in electrical activity which could be converted into light: https://docs.google.com/document/d/1IbWJWsrgVUQEa9IOckBpa5Zf-I_uEW9ChcmPfyLjfME/edit 
 The computer model number 2 represents the respond in the neural activity within system 2 due to the number of emitted photons: https://docs.google.com/document/d/1MSb2X6Q5L3N9MHgdC--K24w92Ea22niEkBCNdQX8pcQ/edit
-The computer model number 3 incorporate the same response as computer model number 2 but they also consider the Maxwells equations of electromagnetic fields
+The computer model number 3 incorporates the same response as computer model number 2 but they also consider the Maxwells equations of electromagnetic fields
 The computer model number 4 icorporates the application of string theory to light particles
